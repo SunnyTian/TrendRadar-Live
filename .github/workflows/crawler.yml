@@ -1,5 +1,7 @@
 name: Get Hot News
 
+# Re-indexed after live repository bootstrap.
+
 on:
   schedule:
     # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
